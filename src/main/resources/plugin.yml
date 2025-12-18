@@ -1,0 +1,10 @@
+name: DistrictsHG
+version: 1.0
+main: pl.sagi.districts.DistrictsPlugin
+api-version: 1.20
+commands:
+  dystrykty:
+    description: Zarządzanie dystryktami
+permissions:
+  dystrykty.admin:
+    default: op
